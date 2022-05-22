@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\quinn\desktop\leetcode\roman to integer\roman to int\roman to int\source.cpp(9): warning C4018: '<': signed/unsigned mismatch
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Quinn\Desktop\Leetcode\roman to integer\roman to int\Debug\roman to int.exe : fatal error LNK1120: 1 unresolved externals
